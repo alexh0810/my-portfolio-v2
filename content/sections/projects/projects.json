@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Fullstack web development",
+      "title": "Full Stack E-commerce Web Application with Next.js",
+      "description": "A full-stack E-commerce Web Application built with Next.js - the rising framework in web development. The application offers features such as browsing products, adding products to cart and checking out. The app also features some admin features such as admin dashboard.",
+      "tags": [
+        "Frontend Development",
+        "Backend development",
+        "Next.js",
+        "React",
+        "JavaScript",
+        "MongoDB"
+      ],
+      "image": {
+        "src": "../../images/urbanedge-homepage.png",
+        "alt": "Urban Edge Web Application",
+        "linkTo": "https://urbanedge-73np1u9a0-alexh0810.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/alexh0810/urbanedge"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Backend development",
+      "title": "E-commerce API",
+      "description": "An E-commerce API with placeholder data for E-commerce front-end applications, eliminating the needs for running server-side code.",
+      "tags": [
+        "Server-side",
+        "RESTful API",
+        "User Authentication",
+        "MongoDB",
+        "Node.js",
+        "TypeScript"
+      ],
+      "image": {
+        "src": "../../images/api.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/alexh0810/ecommerce-api"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/alexh0810"
+  }
+}

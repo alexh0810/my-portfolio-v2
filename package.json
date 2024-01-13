@@ -1,0 +1,32 @@
+{
+  "name": "my-portfolio-v2",
+  "version": "1.0.0",
+  "description": "My Portfolio V2",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Alex H",
+  "license": "0BSD",
+  "starter-name": "my-portfolio",
+  "homepage": "https://github.com/alexh0810/my-portfolio-v2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexh0810/my-portfolio-v2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}

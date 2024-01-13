@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "../../images/node-js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML/CSS",
+      "image": {
+        "src": "../../images/css-html.jpeg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MongoDB",
+      "image": {
+        "src": "../../images/mongodb.jpg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/posgresql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Next.js",
+      "image": {
+        "src": "../../images/nextjs.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.jpg",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

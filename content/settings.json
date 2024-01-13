@@ -1,0 +1,39 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "",
+    "title": "AlexHo Portfolio",
+    "titleTemplate": "%s · Alex Ho Portfolio",
+    "description": "Alex Ho My portfolio v2",
+    "author": "Alex Ho",
+    "avatar": "../content/images/my-octocat.png",
+    "bio": "",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/alexh0810",
+      "linkedin": "https://www.linkedin.com/in/alex-ho08/",
+      "mail": "mailto:baohoan081097@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "AlexH." },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/CV_ALEX_HO_2024.pdf"
+      },
+      "footer": []
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "intro": "Moi - Hi - Xin chao",
+  "heroPhoto": {
+    "src": "../../images/my-octocat.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Alex!",
+  "subtitle": {
+    "prefix": "💻 😴 🔁",
+    "highlight": " is my motto ",
+    "suffix": "."
+  },
+  "description": "Business Information Technology student at Haaga-Helia UAS & aspiring Software Developer. Proud 🇻🇳 living in 🇫🇮.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
