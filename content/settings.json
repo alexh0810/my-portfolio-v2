@@ -12,7 +12,7 @@
       "behance": "https://behance.com",
       "github": "https://github.com/alexh0810",
       "linkedin": "https://www.linkedin.com/in/alex-ho08/",
-      "mail": "mailto:baohoan081097@gmail.com"
+      "mail": "mailto:alexhoanho@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "https://alexh0810.github.io/my-portfolio-v2/CV_ALEX_HO_2024.pdf"
+        "url": "https://alexh0810.github.io/my-portfolio-v2/CV_ALEX_HO.pdf"
       },
       "footer": []
     },
