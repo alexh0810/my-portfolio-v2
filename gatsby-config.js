@@ -1,10 +1,9 @@
 module.exports = {
-  pathPrefix: '/my-portfolio-v2',
   plugins: [
     {
       resolve: 'gatsby-theme-portfolio-minimal',
       options: {
-        siteUrl: 'https://alexh0810.github.io/my-portfolio-v2/', // Used for sitemap generation
+        // Used for sitemap generation
         manifestSettings: {
           favicon: './content/images/my-octocat.png',
           siteName: 'My Minimal Portfolio', // Used in manifest.json
