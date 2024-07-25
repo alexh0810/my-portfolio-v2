@@ -9,10 +9,9 @@
     "avatar": "../content/images/my-octocat.png",
     "bio": "",
     "social": {
-      "behance": "https://behance.com",
       "github": "https://github.com/alexh0810",
       "linkedin": "https://www.linkedin.com/in/alex-ho08/",
-      "mail": "mailto:alexhoanho@gmail.com"
+      "mail": "mailto:alexhohoan@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -26,7 +25,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "https://alexh0810.github.io/my-portfolio-v2/CV_ALEX_HO.pdf"
+        "url": "/CV_ALEX.pdf"
       },
       "footer": []
     },

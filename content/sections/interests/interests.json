@@ -22,6 +22,20 @@
       }
     },
     {
+      "label": "Java",
+      "image": {
+        "src": "../../images/java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Springboot",
+      "image": {
+        "src": "../../images/spring.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "HTML/CSS",
       "image": {
         "src": "../../images/css-html.jpeg",
@@ -55,11 +69,18 @@
         "src": "../../images/git.jpg",
         "alt": ""
       }
+    },
+    {
+      "label": "Google Cloud",
+      "image": {
+        "src": "../../images/ggc.jpg",
+        "alt": ""
+      }
     }
   ],
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 6
   }
 }

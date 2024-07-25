@@ -1,13 +1,13 @@
 {
   "name": "Alex Ho",
-  "email": "alexhoanho@gmail.com",
+  "email": "alexhohoan@gmail.com",
   "description": "Connect for opportunities, projects, or just a chat. Let's make things happen! 😁🚀",
   "image": {
     "src": "../../images/my-octocat.png",
     "alt": "My Octocat"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": true
   }
 }

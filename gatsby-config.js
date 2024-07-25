@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: 'gatsby-theme-portfolio-minimal',
       options: {
-        // Used for sitemap generation
+        siteUrl: 'https://alex-ho-portfolio.vercel.app/', // Used for sitemap generation
         manifestSettings: {
           favicon: './content/images/my-octocat.png',
           siteName: 'My Minimal Portfolio', // Used in manifest.json
@@ -15,14 +15,10 @@ module.exports = {
         },
         contentDirectory: './content',
         blogSettings: {
-          path: '/', // Defines the slug for the blog listing page
-          usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
+          path: '/blog', // Defines the slug for the blog listing page
+          usePathPrefixForArticles: true, // Default true (i.e. path will be /blog/first-article)
         },
-        // googleAnalytics: {
-        //     trackingId: "UA-XXXXXX-X",
-        //     anonymize: true, // Default true
-        //     environments: ["production", "development"] // Default ["production"]
-        // }
+        // You can define theme-specific plugins here if needed
       },
     },
   ],

@@ -14,9 +14,9 @@
     "highlight": " is my motto ",
     "suffix": "."
   },
-  "description": "Business Information Technology student at Haaga-Helia UAS & aspiring Software Developer. Proud 🇻🇳 living in 🇫🇮.",
+  "description": "Software Developer. Business Information Technology graduate from Haaga-Helia UAS.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": true
   }
 }
