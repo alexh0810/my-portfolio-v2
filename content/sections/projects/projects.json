@@ -2,6 +2,43 @@
   "projects": [
     {
       "visible": true,
+      "category": "Frontend application development",
+      "title": "Data Visualization Application",
+      "description": "This application visualizes data from CSV files, allowing users to generate line and bar charts. It includes features for data normalization and a date range selector, providing flexibility for dynamic data analysis and insights.",
+      "tags": ["Frontend Development", "Next.js", "React", "TypeScript"],
+      "image": {
+        "src": "../../images/data-visualization-app.png",
+        "alt": "Data Visualization Application",
+        "linkTo": "https://data-visualization-app-ruddy.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/alexh0810/data-visualization-app"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Frontend application development",
+      "title": "Smart Production Monitor UI Demo",
+      "description": "Developed within 3 days for the Junction hackathon 2024, this UI demo tackles food waste reduction for HKFoods. The application monitors weight variations on the production line and generates reports, enabling staff to promptly calibrate scales and minimize waste.",
+      "tags": ["Frontend Development", "Next.js", "React", "TypeScript"],
+      "image": {
+        "src": "../../images/production-monitor-app.png",
+        "alt": "Smart Production Monitor Web App",
+        "linkTo": "https://production-monitor-79dhimrjc-alexh0810s-projects.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/alexh0810/production-monitor"
+        }
+      ]
+    },
+
+    {
+      "visible": true,
       "category": "Fullstack web development",
       "title": "Full Stack E-commerce Web Application with Next.js",
       "description": "A full-stack E-commerce Web Application built with Next.js - the rising framework in web development. The application offers features such as browsing products, adding products to cart and checking out. The app also features some admin features such as admin dashboard.",
