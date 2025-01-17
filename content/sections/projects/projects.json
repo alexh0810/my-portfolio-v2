@@ -2,6 +2,33 @@
   "projects": [
     {
       "visible": true,
+      "category": "Fullstack application development",
+      "title": "Stock Management Web Application",
+      "description": "A comprehensive inventory management system built with a modern tech stack. Features include real-time stock tracking, automated low-stock notifications, CSV file export, and an intuitive dashboard displaying predictive analytics. The system streamlines inventory operations through automated restocking suggestions based on historical data patterns and customizable alert thresholds.",
+      "tags": [
+        "Fullstack Development",
+        "Next.js",
+        "React",
+        "TypeScript",
+        "GraphQL",
+        "MongoDB",
+        "TailwindCSS",
+        "Docker"
+      ],
+      "image": {
+        "src": "../../images/stock-management-dashboard.png",
+        "alt": "Stock Management Web Application",
+        "linkTo": "https://inventory-tracker-coral.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/alexh0810/inventory-tracker"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "Frontend application development",
       "title": "Data Visualization Application",
       "description": "This application visualizes data from CSV files, allowing users to generate line and bar charts. It includes features for data normalization and a date range selector, providing flexibility for dynamic data analysis and insights.",

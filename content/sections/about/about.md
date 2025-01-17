@@ -3,10 +3,17 @@ imageSrc: '../../images/my_photo.JPG'
 imageAlt: 'A headshot of Alex'
 ---
 
-I’m Alex Ho, a passionate Full Stack Developer with a strong emphasis on front-end technologies. I honed my skills through intensive Full Stack Development and DevOps training at Integrify Academy, earning the AWS Cloud Practitioner certification to strengthen my technical expertise. My academic foundation in Software Development from Haaga-Helia University of Applied Sciences, combined with hands-on collaboration with Finnish enterprises, has equipped me to deliver innovative solutions and drive excellence in web development.
+I'm Alex Ho, a Junior Software Developer passionate about crafting efficient, user-centric solutions. With comprehensive Full Stack Development and DevOps training from Integrify Academy, I bring a robust technical foundation to every project. My Software Development education from Haaga-Helia University of Applied Sciences, enriched by practical collaborations with Finnish companies, has shaped my approach to building scalable, innovative solutions.
 
-My career journey began as a Volunteer Full Stack Developer at Junction, where I played a key role in modernizing the hackathon platform. By utilizing JavaScript, React, MongoDB, Docker, and Git, I implemented impactful enhancements that elevated the platform’s functionality and user experience.
+At Junction, as a Volunteer Full Stack Developer, I spearheaded the modernization of their hackathon platform. Leveraging a modern tech stack including React, MongoDB, and Docker, I implemented key features that significantly enhanced user engagement and platform reliability. This experience taught me the value of clean code architecture and efficient deployment strategies.
 
-I further advanced as a Full Stack Developer Intern at Munchi, where I refined my expertise in JavaScript, React, Docker, and Google Cloud. My work focused on optimizing storefront interfaces and streamlining deployment processes across multiple restaurant platforms.
+During my internship at Munchi as a Full Stack Developer, I specialized in optimizing digital storefronts across multiple restaurant platforms. Working with React, JavaScript, and Google Cloud, I improved deployment workflows and developed responsive interfaces that boosted user satisfaction and operational efficiency.
 
-I’m actively seeking opportunities as a Software Developer, Front-End Developer, or Back-End Developer, and I’m open to roles of any type. Let’s connect to discuss how I can contribute to achieving your technology goals!
+My technical toolkit includes:
+
+- Frontend: React, JavaScript, HTML5, CSS3
+- Backend: Node.js, MongoDB
+- DevOps: Docker, Git, Google Cloud
+- Methodologies: Agile, CI/CD
+
+I'm currently seeking challenging roles as a Software Developer, Front-End Developer, or Back-End Developer where I can contribute to innovative projects and continue growing professionally. Let's connect and explore how my skills and enthusiasm can help drive your team's success!
