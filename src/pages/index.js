@@ -23,6 +23,17 @@ const LinkType = {
 
 export const experienceData = [
   {
+    companyName: 'Outlier',
+    jobTitle: 'AI Trainer - Coding',
+    description: `
+    - Craft complex prompts to challenge and test the limits of AI models.
+    - Analyze and review model responses to identify areas for improvement.
+    `,
+    tags: ['JavaScript', 'Python', 'Prompt Engineering', 'AI'],
+    image: 'images/outlier.jpg', // Ensure this path matches the actual image path
+    visible: true,
+  },
+  {
     companyName: 'Munchi',
     jobTitle: 'Full Stack Developer Intern',
     description: `
